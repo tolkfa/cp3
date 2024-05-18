@@ -1,0 +1,50 @@
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: chocolate;
+    align-items: center;
+    height: 140px;
+    width: 980px;
+}
+
+.bodys{
+    width: 100%;
+    margin: 10px 0;
+    display: flex;
+    justify-content: left;
+}
+
+.sidebar{
+    width: 270px;
+    height: 450px;
+    background-color: chocolate;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.content{
+    margin: 0 20px;
+    width: 690px;
+    height: 450px;
+    background-color: chocolate;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.Footer{
+    width: 980px;
+    height: 70px;
+    background-color: chocolate;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
